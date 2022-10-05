@@ -20,4 +20,5 @@
 while中使用isCorrect的反向，加了个！号，这样，当do中没有发现哪一项顺序不对，iscorrect就一直是true，
 到了while中，反向的iscorrect就变成了false，因此通过，输出out数组。但是如果在do中发现有一项大小不对，
 那么iscorrect立即变为false，并且中断遍历for，在while中！iscorrect为真，true，因此重复运行。  
-![](https://github.com/Wyuebaibaibai/Baiwenyue_414join/blob/3626ca1e5e5151d995691fcfd507d30ebb1de110/1000.jfif)
+![](https://github.com/Wyuebaibaibai/Baiwenyue_414join/blob/3626ca1e5e5151d995691fcfd507d30ebb1de110/1000.jfif)  
+![](https://github.com/Wyuebaibaibai/Baiwenyue_414join/blob/ed17ea4e600d46fbe191caf860bacd3dc79227a6/%E5%86%92%E6%B3%A1%E7%AE%97%E6%B3%95.png)
